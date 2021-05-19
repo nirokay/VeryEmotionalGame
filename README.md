@@ -10,4 +10,4 @@ You will need Java 8 installed for this program to run.
 ### Windows
 Download the .zip file, unpack it and execute the .exe file
 ### Linux
-Download the .zip file, unpack it, open your terminal in the folder and type './VeryEmotionalGame'.
+Download the .zip file, unpack it, open your terminal in the folder and type `./VeryEmotionalGame`.
